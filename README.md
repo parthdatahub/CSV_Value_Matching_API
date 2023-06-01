@@ -23,7 +23,7 @@ Thoroughly tests the API, covering different scenarios and edge cases.
 
 To use the CSV Value Matching API, follow these steps:
 
-Clone the repository: $ git clone https://github.com/your-username/csv-value-matching-api.git
+Clone the repository: $ git clone https://github.com/parthdatahub/CSV_Value_Matching_API
 Install the necessary dependencies: $ pip install -r requirements.txt
 Run the Flask application: $ python app.py
 Access the API through your browser at http://localhost:5000.
